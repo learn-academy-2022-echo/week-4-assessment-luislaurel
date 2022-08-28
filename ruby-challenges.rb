@@ -73,8 +73,6 @@ palindrome_tester3 = 'Rotator'
 
 # no issues with downcase here, don't know why
 
-
-
 def palindrome string 
      reversestr = string.downcase
     if reversestr == string.downcase.reverse
