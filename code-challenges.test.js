@@ -1,14 +1,9 @@
 // ASSESSMENT 4: JavaScript Coding Practical Questions with Jest
-
-const { buildMatchMemberExpression } = require("@babel/types")
-
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
-
 // Use test driven development to complete the following questions
 // Add appropriate dependencies: $ yarn add jest
-
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
 
